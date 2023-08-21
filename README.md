@@ -5,6 +5,8 @@
 Litlle Italy Pizza is a web application for a fictitious pizza shop.
 Created as a week-long pair programming project at GA Software Engineering Immersive Bootcamp.
 
+[Little Italy Homepage](little-italy-pizza.onrender.com/)
+
 ## Feature
 
 ### Front-end
@@ -80,7 +82,6 @@ Created as a week-long pair programming project at GA Software Engineering Immer
 - [ ] Clear credit card information after a timeout.
 - [ ] Credit card processing with Square API.
 - [ ] Promotional e-mail system.
-
 
 
 ![Footer](./public/images/readme/footer.png)
