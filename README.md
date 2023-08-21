@@ -62,7 +62,6 @@ Created as a week-long pair programming project at GA Software Engineering Immer
 - HTML
 - CSS
 - JavaScript
-- Heroku
 
 ## Icebox Feature
 
